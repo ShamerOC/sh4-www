@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import LeftBar from "./Navigation/LeftBar";
 import {Col, Container, Row} from "react-bootstrap";
 import {Route} from "react-router";
